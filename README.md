@@ -3,8 +3,9 @@
 ### :checkered_flag: Feito em um curso de extensão na faculdade santo agostinho 
 #### Professor: Andersson Soares Costa  
 ##### 🎓 Olá! Sou um aluno do 1º período de Engenharia de Software e estou aprendendo Git e GitHub. Este repositório reúne o que venho estudando, desde comandos básicos até práticas mais avançadas de mudança de versões.  
-'__'
- 
+
+ ## 📝 Dados 
+ *** 
  
 :white_check_mark: contato:86 999562455  
 :white_check_mark: instagram:jsoaress5  
