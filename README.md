@@ -1,11 +1,11 @@
 # primeiro-projeto 1
- Meu primeiro projeto do git github da faculdade
+ ##Meu primeiro projeto do git github da faculdade
  feito em um curso de extensão na faculdade santo agostinho 
  Professor: Andersson Soares Costa
  
- José Soares Da Silva
+ --José Soares Da Silva
 
- contato:86 999562455
+ --contato:86 999562455
 
  instagram:jsoaress5
 
