@@ -1,5 +1,5 @@
 # primeiro-projeto 1
-## Meu primeiro projeto do git github da faculdade
+## :alien: Meu primeiro projeto do git github da faculdade
  feito em um curso de extensão na faculdade santo agostinho 
  Professor: Andersson Soares Costa
  
