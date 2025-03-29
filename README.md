@@ -23,9 +23,9 @@
  ***  
 
  ## 🛠️Ferramentas que eu ultilizei:  
- ❗Git
- ❗github
- ❗vs code
+ ❗Git  
+ ❗github  
+ ❗vs code  
  
 
 
