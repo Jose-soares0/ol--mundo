@@ -1,7 +1,7 @@
 # primeiro-projeto 1
 ## :alien: Meu primeiro projeto do git github da faculdade
 ### :checkered_flag: Feito em um curso de extensão na faculdade santo agostinho 
- Professor: Andersson Soares Costa
+#### Professor: Andersson Soares Costa
  
 :white_check_mark: José Soares Da Silva  
 :white_check_mark: contato:86 999562455
