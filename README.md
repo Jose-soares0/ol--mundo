@@ -4,12 +4,14 @@
 #### Professor: Andersson Soares Costa  
 ##### 🎓 Olá! Sou um aluno do 1º período de Engenharia de Software e estou aprendendo Git e GitHub. Este repositório reúne o que venho estudando, desde comandos básicos até práticas mais avançadas de mudança de versões.  
 
- ## 📝 Dados 
+ ## 📝 Dados: 
  *** 
  
 :white_check_mark: contato:86 999562455  
 :white_check_mark: instagram:jsoaress5  
 :white_check_mark: Email de contato: josesoaresdasilva006@gmail.com  
+
+## 👌 Gostos pessoais:  
 :white_check_mark: Gostos: gosto de praticar esportes (volei, futebol):soccer:, ver series, escutar musica,ir pra academia 💪.  
 :white_check_mark: Não gosto: não ir pra academia, não jogar bola, não jogar volei, não escutar musica, ficar sem internet 
 
