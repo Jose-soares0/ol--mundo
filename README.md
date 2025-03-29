@@ -8,9 +8,9 @@
  instagram:jsoaress5  
  Email de contato: josesoaresdasilva006@gmail.com  
  Gostos: gosto de praticar esportes (volei, futebol), ver series, escutar musica,ir pra academia 💪.  
- Não gosto: não ir pra academia, não jogar bola, não jogar volei, não escutar musica, ficar sem internet
+ Não gosto: não ir pra academia, não jogar bola, não jogar volei, não escutar musica, ficar sem internet  
+ Road map do minicurso de git github
  
- Road map mini curso de 
  .![git-github-drawio](https://github.com/user-attachments/assets/299a37fe-8b24-4b61-9f12-eaf3ea3efd36)
 
 
