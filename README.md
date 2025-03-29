@@ -4,7 +4,8 @@
  Professor: Andersson Soares Costa
  
 :white_check_mark: José Soares Da Silva  
-:white_check_mark: contato:86 999562455  :white_check_mark:* instagram:jsoaress5  
+:white_check_mark: contato:86 999562455
+:white_check_mark: instagram:jsoaress5  
 :white_check_mark: Email de contato: josesoaresdasilva006@gmail.com  
 :white_check_mark: Gostos: gosto de praticar esportes (volei, futebol):soccer:, ver series, escutar musica,ir pra academia 💪.  
 :white_check_mark: Não gosto: não ir pra academia, não jogar bola, não jogar volei, não escutar musica, ficar sem internet  
