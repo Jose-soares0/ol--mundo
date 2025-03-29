@@ -15,9 +15,11 @@
 :white_check_mark: Gostos: gosto de praticar esportes (volei, futebol):soccer:, ver series, escutar musica,ir pra academia 💪.  
 :white_check_mark: Não gosto: não ir pra academia, não jogar bola, não jogar volei, não escutar musica, ficar sem internet 
 
-  📌O que estou aprendendo nesse curso
+##  📌O que estou aprendendo nesse curso:  
+
  
- .![git-github-drawio](https://github.com/user-attachments/assets/299a37fe-8b24-4b61-9f12-eaf3ea3efd36)
+ .![git-github-drawio](https://github.com/user-attachments/assets/299a37fe-8b24-4b61-9f12-eaf3ea3efd36)  
+ ***
 
 
 
