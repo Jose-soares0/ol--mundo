@@ -22,7 +22,11 @@
  .![git-github-drawio](https://github.com/user-attachments/assets/299a37fe-8b24-4b61-9f12-eaf3ea3efd36)  
  ***  
 
- ## 🛠️Ferramentas que eu ultilizei:
+ ## 🛠️Ferramentas que eu ultilizei:  
+ ❗Git
+ ❗github
+ ❗vs code
+ 
 
 
 
